@@ -1,4 +1,4 @@
-![ruler](https://github.com/juks/capacity-planning/assets/147685/bf0073db-86f9-4041-8102-1044e9e0478d | width=900)
+<img src="[https://github.com/favicon.ico](https://github.com/juks/capacity-planning/assets/147685/bf0073db-86f9-4041-8102-1044e9e0478d)" width="900">
 
 ### Идея
 
